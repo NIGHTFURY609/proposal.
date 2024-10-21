@@ -47,7 +47,7 @@ export default function Home()
           <img src='https://sweezy-cursors.com/wp-content/uploads/cursor/milk-amp-mocha-bear-love/milk-mocha-bear-love-custom-cursor.png' width={600}/>
           <h1 className='w-1/3 text-pink-300 font-bold text-6xl'>Someone For</h1>
         </div>
-        <h1 className="w-full h-1/4 text-pink-300 font-bold text-6xl uppercase">prom</h1>
+        <h1 className="w-full h-1/4 text-pink-300 font-bold text-6xl uppercase">life</h1>
       </div>
 
       <div className="text-center w-full h-64 bg-pink-200 drop-shadow-xl">
@@ -95,7 +95,7 @@ export default function Home()
       />
 
       <div className="flex flex-row justify-around items-center text-center w-full h-96 bg-pink-50 px-5 pt-5">
-        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>If I&apos;m C would you be my C++ to prom?</h1>
+        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>If I&apos;m C would you be my C++ to life?</h1>
       </div>
 
       <div className="flex flex-row justify-around items-start text-center w-full h-36 bg-pink-50 pb-5">
